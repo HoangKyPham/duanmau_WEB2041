@@ -32,6 +32,7 @@
                         <li><a href="index.php?act=all_Items&id_Cate=3">Richard Mile</a></li>
                         <li><a href="index.php?act=all_Items&id_Cate=4">Casio</a></li>
                         <li><a href="index.php?act=all_Items&id_Cate=5">Jacob & Co</a></li>
+                        <li><a href="index.php?act=all_Items&id_Cate=5">Jacob & Co</a></li>
                     </ul>
                 </li>
                 <li><a href="index.php?act=all_Items">All Items</a></li>
