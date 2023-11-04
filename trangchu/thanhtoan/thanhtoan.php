@@ -1,4 +1,6 @@
 <?php 
     echo 'Pham Hoang Ky da mua';
-    $a = 'conflict';
+
+    $b = "hay lam nha";
+
 ?>
